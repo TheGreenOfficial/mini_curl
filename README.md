@@ -1,6 +1,6 @@
 # mini_curl
 
-A minimal HTTP client in C that fetches the homepage of a given hostname using raw sockets. Perfect for learning low-level network programming and basic HTTP requests.
+A minimal HTTP client in C that fetches the homepage of a given hostname using raw sockets.
 
 ## Features
 - Fetch HTTP content from a specified hostname
